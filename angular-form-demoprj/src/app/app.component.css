@@ -1,0 +1,37 @@
+
+::ng-deep .p-card .p-card-body {
+         padding: 0rem 0;
+}
+::ng-deep h1 {
+    color: #3B82F6;
+    margin-left: 20px;
+}
+::ng-deep .p-card .p-card-content {
+    padding: 0.3rem 1.2rem;
+}
+::ng-deep .p-autocomplete {
+    height: 41.4px;
+    border-radius: 0px;
+}
+::ng-deep .grid > [class*=col] {
+    box-sizing: border-box;
+    padding: 0px 3px;
+}
+::ng-deep .p-inputtext {
+    border-radius: 0px;
+}
+::ng-deep .p-dropdown {
+    border-radius: 0px;
+}
+::ng-deep .p-autocomplete-dropdown{
+    border-radius: 0px;
+}
+::ng-deep .p-datatable .p-datatable-thead > tr > th {
+    padding: 0.7rem 0.7rem;
+}
+::ng-deep .p-datatable .p-datatable-tbody > tr > td {
+    padding: 0.7rem 0.7rem;
+}
+::ng-deep .p-paginator {
+    padding: 0rem;
+}

@@ -1,0 +1,5 @@
+
+<p-selectButton [(ngModel)]="value2" [options]="paymentOptions"  optionLabel="name" optionValue="value" (onOptionClick)="changeTab($event.option.value)"></p-selectButton>
+<p-card>
+  <router-outlet></router-outlet>  
+</p-card>
